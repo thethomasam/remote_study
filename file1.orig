@@ -1,0 +1,6 @@
+hello
+hello this branch test
+<<<<<<< HEAD
+hello this branch test 22
+=======
+>>>>>>> new_1
